@@ -47,7 +47,7 @@ publishing {
     publications {
         register<MavenPublication>("release") {
             groupId = "com.github.amirthalakshmi54"
-            artifactId = "email-validation"
+            artifactId = "sample-email-validation"
             version = "1.0"
 
 
